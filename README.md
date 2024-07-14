@@ -4,7 +4,7 @@ An exclusive POD created to execute all compliance and regulatory related projec
 
 Roles and Responsibilites:
 
-• Led and executed over 25 projects in a span of 3 years maintaining 100% record of on-time delivery
+• Led a team of 5 developers and executed over 25 projects in a span of 3 years maintaining 100% record of on-time delivery
 
 • Executed the T+1 Settlement, Affirmation, and Street Side initiatives, adding over 150 fields to our reporting tool and increasing its usage by 40%
 
@@ -18,5 +18,4 @@ Roles and Responsibilites:
 • Conducted an comprehensive impact analysis for the organization-wide RR# expansion initiative and implemented the changes in record time, resulting in zero defects 
   and no post-production issues
 
-
-
+• Collaborated with multiple cross-functional teams to gather requirements, design, develop and deploy all compliance related efforts
